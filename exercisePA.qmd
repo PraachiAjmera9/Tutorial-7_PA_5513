@@ -23,3 +23,9 @@ header-includes:
 
 
 # Practicing stage/unstage
+
+This is an Introduction section
+
+# Analysis
+
+An analysis section
